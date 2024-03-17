@@ -1,1 +1,1 @@
-# british-airways-data-science-virtual-internship
+# British Airways Data Science Virtual Internship
